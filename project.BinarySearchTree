@@ -11,6 +11,8 @@
                   2   4
                   
                   
-*Average Case : O(logn)
-*Worst Case : O(n)
-*Insertion : O(logn)
+Average Case   :  O(logn)
+Worst Case     :  O(n)
+Insertion      :  O(logn)
+
+
